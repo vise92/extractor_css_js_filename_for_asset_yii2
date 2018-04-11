@@ -2,13 +2,6 @@
 
 Extract css and js filename on your theme HTML for example to include in your yii2 application.
 
-```mermaid
-graph LR
-A[extractor.php] --> B((js.txt))
-A --> C((css.txt))
-A --> D((page_js.txt))
-```
-
  - Open extractor.php and put your path on $startDirectory.
  - Launch extractor.php
 
