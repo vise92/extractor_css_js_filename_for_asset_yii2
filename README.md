@@ -1,0 +1,1 @@
+# extractor_css_js_filename_for_asset_yii2
