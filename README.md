@@ -13,4 +13,4 @@ Extract css and js filename on your theme HTML for example to include in your yi
 
 # Works
 
-![alt text](C:\Users\avisentin\Desktop\cattura.png "Title")
+![alt text](works.png "works")
