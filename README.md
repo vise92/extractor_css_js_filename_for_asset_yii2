@@ -13,4 +13,5 @@ Extract css and js filename on your theme HTML for example to include in your yi
 
 # Works
 
-![alt text](works.png "works")
+In works.png see the file AppAsset of yii2 with all css and js filename of my html theme. 
+So i can work use a theme with yii2 framework without lost time to copy and paste one by one.
