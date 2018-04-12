@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
-*.rb linguist-language=PHP
+Theme/* linguist-vendored
+Theme_ready_for_yii2/* linguist-vendored
 
