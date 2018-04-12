@@ -79,8 +79,7 @@ function printFileCss($all_css){
 
 	$end = "public ".'$css'." = [";
         
-    $nd_footer = "];
-}" . PHP_EOL;
+    $nd_footer = "];" . PHP_EOL;
 
 	$css_depends = $end.implode(' ',$all_css).$nd_footer;
 
